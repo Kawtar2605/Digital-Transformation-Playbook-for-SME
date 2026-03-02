@@ -202,10 +202,9 @@ Objectif :
 Transformer l’intuition du dirigeant en pilotage basé sur données.
 
 Ce qu’on NE recommande PAS à ce stade
-
-❌ Agent IA
-❌ Chatbot complexe
-❌ Automatisation avancée
+- Agent IA
+- Chatbot complexe
+- Automatisation avancée
 
 Pourquoi ?
 Parce que la base organisationnelle n’est pas stabilisée.
